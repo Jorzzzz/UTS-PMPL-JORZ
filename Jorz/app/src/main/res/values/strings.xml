@@ -1,0 +1,59 @@
+<resources>
+
+    <string name="app_name">Michelle Store</string>
+
+    <string-array name="jumlah_beli">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+
+    <string-array name="ukuran_jilbab">
+        <item>BAJU M</item>
+        <item>BAJU L</item>
+        <item>BAJU XL</item>
+        <item>BAJU XXL</item>
+        <item>HOODIE M</item>
+        <item>HOODIE L</item>
+        <item>HOODIE XL</item>
+        <item>HOODIE XXL</item>
+        <item>KEMEJA M</item>
+        <item>KEMEJA L</item>
+        <item>KEMEJA XL</item>
+        <item>KEMEJA XXL</item>
+        <item>CELANA 30</item>
+        <item>CELANA 31</item>
+        <item>CELANA 32</item>
+        <item>CELANA 33</item>
+        <item>CELANA 34</item>
+        <item>CELANA 35</item>
+        <item>CELANA 36</item>
+        <item>CELANA 37</item>
+        <item>CELANA 38</item>
+        <item>CELANA 39</item>
+        <item>CELANA 40</item>
+
+    </string-array>
+
+    <string-array name="Kurir">
+        <item>JNE</item>
+        <item>JNT</item>
+        <item>SI CEPAT</item>
+        <item>POS</item>
+
+    </string-array>
+
+    <string-array name="Bank">
+        <item>BRI</item>
+        <item>BCA</item>
+        <item>MANDIRI</item>
+    </string-array>
+
+</resources>

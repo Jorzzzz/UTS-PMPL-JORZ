@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.firusstore_fikri">
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@drawable/logo"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/logo"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Firusstore_fikri"
+        tools:targetApi="31">
+        <activity
+            android:name=".slippembayaran"
+            android:exported="false" />
+        <activity
+            android:name=".selesai"
+            android:exported="false" />
+        <activity
+            android:name=".checkout"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="false" />
+        <activity
+            android:name=".register"
+            android:exported="false" />
+        <activity
+            android:name=".login"
+            android:exported="false" />
+        <activity
+            android:name=".hoodie4"
+            android:exported="false" />
+        <activity
+            android:name=".hoodie3"
+            android:exported="false" />
+        <activity
+            android:name=".hoodie2"
+            android:exported="false" />
+        <activity
+            android:name=".hoodie1"
+            android:exported="false" />
+        <activity
+            android:name=".celana2"
+            android:exported="false" />
+        <activity
+            android:name=".celana1"
+            android:exported="false" />
+        <activity
+            android:name=".kemeja4"
+            android:exported="false" />
+        <activity
+            android:name=".kemeja3"
+            android:exported="false" />
+        <activity
+            android:name=".kemeja2"
+            android:exported="false" />
+        <activity
+            android:name=".kemeja1"
+            android:exported="false" />
+        <activity
+            android:name=".baju3"
+            android:exported="false" />
+        <activity
+            android:name=".baju4"
+            android:exported="false" />
+        <activity
+            android:name=".baju2"
+            android:exported="false" />
+        <activity
+            android:name=".Pembayaran"
+            android:exported="false" />
+        <activity
+            android:name=".baju1"
+            android:exported="false" />
+        <activity
+            android:name=".kemeja"
+            android:exported="false" />
+        <activity
+            android:name=".hoodie"
+            android:exported="false" />
+        <activity
+            android:name=".celana"
+            android:exported="false" />
+        <activity
+            android:name=".baju"
+            android:exported="false" />
+        <activity
+            android:name=".splash"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

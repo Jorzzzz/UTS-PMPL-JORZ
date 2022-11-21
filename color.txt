@@ -1,0 +1,3 @@
+dark - #21325E
+accent - #3E497A
+bright - #F1D00A / #F0F0F0

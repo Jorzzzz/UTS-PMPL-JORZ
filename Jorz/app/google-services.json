@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1057844590146",
+    "project_id": "firus-fikriruslan",
+    "storage_bucket": "firus-fikriruslan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057844590146:android:10eccdfd3a2057c8addfdb",
+        "android_client_info": {
+          "package_name": "com.example.firusstore_fikri"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1057844590146-i4etidc87rln67l3t3kch73koahogo1k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZjPBEAMcqPYrmxccANV51nMHo43_QToA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1057844590146-i4etidc87rln67l3t3kch73koahogo1k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
