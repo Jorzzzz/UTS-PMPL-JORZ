@@ -3,6 +3,7 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
+    android:background="#21325E"
     android:layout_height="match_parent"
     tools:context=".Pembayaran">
 
@@ -25,6 +26,7 @@
             <View
                 android:id="@+id/PBack"
                 android:layout_width="32dp"
+                android:backgroundTint="@color/white"
                 android:layout_height="32dp"
                 android:background="@drawable/back" />
 
@@ -34,7 +36,7 @@
                 android:layout_height="wrap_content"
                 android:text="Pembayaran"
                 android:layout_marginStart="100dp"
-                android:textColor="#000000"
+                android:textColor="@color/white"
                 android:textSize="20sp" />
         </LinearLayout>
 
@@ -49,18 +51,21 @@
             <TextView
                 android:id="@+id/textView25"
                 android:layout_width="match_parent"
+                android:textColor="@color/white"
                 android:layout_height="wrap_content"
                 android:text="Pilih Bank    :" />
 
             <Spinner
                 android:id="@+id/PBank"
                 android:layout_width="match_parent"
+                android:backgroundTint="@color/white"
                 android:layout_height="48dp"
                 android:layout_marginTop="10dp"
                 android:entries="@array/Bank" />
 
             <TextView
                 android:id="@+id/textView27"
+                android:textColor="@color/white"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="10dp"
@@ -70,6 +75,7 @@
                 android:id="@+id/PNoRekening"
                 android:layout_width="match_parent"
                 android:layout_height="48dp"
+                android:textColor="@color/white"
                 android:layout_marginTop="10dp"
                 android:gravity="center|left"
                 android:text="TextView"

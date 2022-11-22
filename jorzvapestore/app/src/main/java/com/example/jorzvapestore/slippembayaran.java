@@ -24,7 +24,7 @@ public class slippembayaran extends AppCompatActivity {
             @Override
             public void onClick(View view) {
 
-                String wpurl = "https://wa.me/+6281344631582?text=Assalamualaikum Kak berikut bukti pembayaran yang sudah saya Screeenshoot ?";
+                String wpurl = "https://wa.me/+6282236358060?text=Assalamualaikum Kak berikut bukti pembayaran yang sudah saya Screeenshoot";
 
                 Intent intent=new Intent(Intent.ACTION_VIEW);
                 intent.setData(Uri.parse(wpurl));
@@ -45,7 +45,6 @@ public class slippembayaran extends AppCompatActivity {
         jumlah = data.getStringExtra("jumlah");
 
         slip.setText("SLIP PEMBAYARAN \n"+
-                "\n"+
                 "\n"+
                 "\n"+
                 "Nama : "+nm+"\n"+

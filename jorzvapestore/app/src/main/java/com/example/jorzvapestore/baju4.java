@@ -23,7 +23,7 @@ public class baju4 extends AppCompatActivity {
     int harga = 800000;
     String itemJumlah,itemUkuran;
     int itemHarga = 0;
-    String nama = "Akatsuki";
+    String nama = "ART MOD 180W";
 
 
     @Override
